@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A computer science student, volunteer and a Dev/MLOps enthusiast</h3>
 
-- 🔭 I’m currently working on [My thesis](https://github.com/FiiL123/fmfi-editor)
+- 🔭 I’m currently working on school and work related projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
